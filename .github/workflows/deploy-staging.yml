@@ -5,7 +5,7 @@ pull_request:
   types:[labeled]
 
 env:
-  DOCKER_IMAGE_NAME: damilolaabioye-azure-ttt1
+  DOCKER_IMAGE_NAME: damilolaabioye-azure-ttt
   IMAGE_REGISTRY_URL: docker.pkg.github.com
   AZURE_WEBAPP_NAME: damilolaabioye-ttt-app
   
